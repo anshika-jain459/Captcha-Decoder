@@ -22,4 +22,5 @@ Numpy
 
 ### Neural Network Architecture
 The following image is a representation of the Neural Network that was used. This architecture was designed for a wider range of possible letters but it works pretty good on smaller ranges too.
+
 ![CNN Model](https://imgtr.ee/images/2023/07/15/a5f96879e05c3486611bbd7204aa879f.png)

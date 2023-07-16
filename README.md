@@ -2,11 +2,11 @@
 Captcha Decoder is a project that uses deep learning techniques to automatically decipher captcha images. Captchas are widely used to prevent bots from accessing certain online services, but they can be challenging for machines to read accurately. This project aims to develop an accurate and efficient system to automate the captcha-solving process.
 
 ### Technologies Used
-Python 3.x
-TensorFlow (or TensorFlow-GPU for GPU support)
-Keras
-OpenCV
-Numpy
+- Python 3.x
+- TensorFlow (or TensorFlow-GPU for GPU support)
+- Keras
+- OpenCV
+- Numpy
 
 ### Solving Process
 1. download the captcha image from the provided source. The standard size for this particular example is 200x50 pixels. The captcha images look like the following one:

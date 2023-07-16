@@ -28,4 +28,4 @@ The following image is a representation of the Neural Network that was used. Thi
 ### Performances
 - The training of the Neural Network takes a small amount of time around ~7 minutes.
 - It takes it about 12 seconds to solve 50 captchas, including download and preprocessing.
-- On average, the trained Neural Network achieved a mean success rate of ~94%, peaking at 83%.
+- On average, the trained Neural Network achieved a mean success rate of ~86%, peaking at 83%.
